@@ -1,5 +1,35 @@
 [
   {
+    "id": "2607.13077",
+    "title": "The Hitchhiker's Guide to Monoculture: AI Homogenizes Syntax, Not (Necessarily) Semantics",
+    "authors": [
+      "Gordon Burtch"
+    ],
+    "year": 2026,
+    "venue": "arXiv preprint (cs.CY)",
+    "arxiv_id": "2607.13077",
+    "doi": "10.48550/arXiv.2607.13077",
+    "url": "https://arxiv.org/abs/2607.13077",
+    "pdf_url": "https://arxiv.org/pdf/2607.13077.pdf",
+    "categories": [
+      "cs.CY",
+      "cs.AI",
+      "cs.SE"
+    ],
+    "conformity_levels": [
+      "L2_syntactic_stylistic",
+      "L3_semantic_ideational"
+    ],
+    "cybernetic_concepts": [
+      "consensus_attractor",
+      "variance_reduction"
+    ],
+    "empirical_substrate": "Scientific corpus / human interaction",
+    "status": "ingested",
+    "file_rel_path": "corpus/papers/2607.13077.md",
+    "bibtex": "@article{burtch2026260713077,\n  title={{The Hitchhiker's Guide to Monoculture: AI Homogenizes Syntax, Not (Necessarily) Semantics}},\n  author={Gordon Burtch},\n  journal={arXiv preprint arXiv:2607.13077},\n  year={2026},\n  eprint={2607.13077},\n  archivePrefix={arXiv},\n  primaryClass={cs.CY},\n  url={https://arxiv.org/abs/2607.13077}\n}"
+  },
+  {
     "id": "messeri2024illusions",
     "title": "Artificial intelligence and illusions of understanding in scientific research",
     "authors": [
@@ -314,6 +344,39 @@
     "status": "curated",
     "file_rel_path": "corpus/papers/2305.17493.md",
     "bibtex": "@article{shumailov2024curse,\n  title={The curse of recursion: Training on generated data makes models forget},\n  author={Shumailov, Ilia and Shumaylov, Zakhar and Zhao, Yiren and Papernot, Nicolas and Anderson, Ross and Gal, Yarin},\n  journal={Nature},\n  volume={631},\n  pages={755--759},\n  year={2024},\n  doi={10.1038/s41586-024-07566-y},\n  url={https://arxiv.org/abs/2305.17493}\n}"
+  },
+  {
+    "id": "2304.02819",
+    "title": "GPT detectors are biased against non-native English writers",
+    "authors": [
+      "Weixin Liang",
+      "Mert Yuksekgonul",
+      "Yining Mao",
+      "Eric Wu",
+      "James Zou"
+    ],
+    "year": 2023,
+    "venue": "arXiv preprint (cs.CL)",
+    "arxiv_id": "2304.02819",
+    "doi": "10.48550/arXiv.2304.02819",
+    "url": "https://arxiv.org/abs/2304.02819",
+    "pdf_url": "https://arxiv.org/pdf/2304.02819.pdf",
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.HC",
+      "cs.LG"
+    ],
+    "conformity_levels": [
+      "L4_symbolic_pragmatic"
+    ],
+    "cybernetic_concepts": [
+      "communicative_accommodation"
+    ],
+    "empirical_substrate": "Scientific corpus / human interaction",
+    "status": "ingested",
+    "file_rel_path": "corpus/papers/2304.02819.md",
+    "bibtex": "@article{liang2023230402819,\n  title={{GPT detectors are biased against non-native English writers}},\n  author={Weixin Liang and Mert Yuksekgonul and Yining Mao and Eric Wu and James Zou},\n  journal={arXiv preprint arXiv:2304.02819},\n  year={2023},\n  eprint={2304.02819},\n  archivePrefix={arXiv},\n  primaryClass={cs.CL},\n  url={https://arxiv.org/abs/2304.02819}\n}"
   },
   {
     "id": "2303.08974",
