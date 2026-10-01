@@ -1,5 +1,74 @@
 [
   {
+    "id": "messeri2024illusions",
+    "title": "Artificial intelligence and illusions of understanding in scientific research",
+    "authors": [
+      "Lisa Messeri",
+      "M. J. Crockett"
+    ],
+    "year": 2024,
+    "venue": "Nature 627, 49–58 (2024)",
+    "doi": "10.1038/s41586-024-07146-0",
+    "url": "https://www.nature.com/articles/s41586-024-07146-0",
+    "categories": [
+      "Science Studies",
+      "Cognitive Science",
+      "Philosophy of Science"
+    ],
+    "conformity_levels": [
+      "L3_semantic_ideational",
+      "L4_symbolic_pragmatic",
+      "L5_systemic_recursive"
+    ],
+    "cybernetic_concepts": [
+      "epistemic_monoculture",
+      "illusions_of_understanding",
+      "observer_entrapment"
+    ],
+    "empirical_substrate": "Sociological and cognitive taxonomy of AI deployment across scientific disciplines",
+    "metrics": [
+      "Epistemic risk taxonomy",
+      "Exploratory horizon narrowing"
+    ],
+    "status": "curated",
+    "file_rel_path": "corpus/papers/messeri2024illusions.md",
+    "bibtex": "@article{messeri2024artificial,\n  title={Artificial intelligence and illusions of understanding in scientific research},\n  author={Messeri, Lisa and Crockett, M. J.},\n  journal={Nature},\n  volume={627},\n  number={8002},\n  pages={49--58},\n  year={2024},\n  publisher={Nature Publishing Group},\n  doi={10.1038/s41586-024-07146-0}\n}"
+  },
+  {
+    "id": "doshi2024creativity",
+    "title": "Generative AI enhances individual creativity but reduces the collective diversity of novel content",
+    "authors": [
+      "Anil R. Doshi",
+      "Oliver P. Hauser"
+    ],
+    "year": 2024,
+    "venue": "Science Advances 10(28), eadn5290",
+    "doi": "10.1126/sciadv.adn5290",
+    "url": "https://www.science.org/doi/10.1126/sciadv.adn5290",
+    "categories": [
+      "Sociology",
+      "Economics",
+      "Human-Computer Interaction"
+    ],
+    "conformity_levels": [
+      "L3_semantic_ideational",
+      "L5_systemic_recursive"
+    ],
+    "cybernetic_concepts": [
+      "collective_homogenization",
+      "social_dilemma",
+      "attractor_basin"
+    ],
+    "empirical_substrate": "Controlled writing experiment with 293 writers producing 4,395 story evaluations",
+    "metrics": [
+      "Semantic embedding similarity across stories",
+      "Individual vs. collective novelty variance"
+    ],
+    "status": "curated",
+    "file_rel_path": "corpus/papers/doshi2024creativity.md",
+    "bibtex": "@article{doshi2024generative,\n  title={Generative AI enhances individual creativity but reduces the collective diversity of novel content},\n  author={Doshi, Anil R and Hauser, Oliver P},\n  journal={Science Advances},\n  volume={10},\n  number={28},\n  pages={eadn5290},\n  year={2024},\n  publisher={American Association for the Advancement of Science},\n  doi={10.1126/sciadv.adn5290}\n}"
+  },
+  {
     "id": "2409.01754",
     "title": "Empirical evidence of Large Language Model's influence on human spoken communication",
     "authors": [
@@ -168,6 +237,42 @@
     "status": "curated",
     "file_rel_path": "corpus/papers/2403.07183.md",
     "bibtex": "@article{liang2024monitoring,\n  title={Monitoring AI-Modified Content at Scale: A Case Study on the Impact of ChatGPT on AI Conference Peer Reviews},\n  author={Liang, Weixin and Izzo, Zachary and Zhang, Yaohui and Lepp, Haley and Cao, Hancheng and Zhao, Xuandong and Chen, Lingjiao and Ye, Haotian and Liu, Sheng and Huang, Zhi and McFarland, Daniel A. and Zou, James Y.},\n  journal={arXiv preprint arXiv:2403.07183},\n  year={2024},\n  eprint={2403.07183},\n  archivePrefix={arXiv},\n  primaryClass={cs.CL},\n  url={https://arxiv.org/abs/2403.07183}\n}"
+  },
+  {
+    "id": "2307.01850",
+    "title": "Self-Consuming Generative Models Go MAD",
+    "authors": [
+      "Sina Alemohammad",
+      "Josue Casco-Rodriguez",
+      "Lorenzo Luzi",
+      "Ahmed Imtiaz Humayun",
+      "Hossein Babaei",
+      "Daniel LeJeune",
+      "Ali Siahkoohi",
+      "Richard G. Baraniuk"
+    ],
+    "year": 2023,
+    "venue": "arXiv preprint (cs.LG)",
+    "arxiv_id": "2307.01850",
+    "doi": "10.48550/arXiv.2307.01850",
+    "url": "https://arxiv.org/abs/2307.01850",
+    "pdf_url": "https://arxiv.org/pdf/2307.01850.pdf",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CV"
+    ],
+    "conformity_levels": [
+      "L5_systemic_recursive"
+    ],
+    "cybernetic_concepts": [
+      "circular_causality",
+      "structural_coupling"
+    ],
+    "empirical_substrate": "Scientific corpus / human interaction",
+    "status": "ingested",
+    "file_rel_path": "corpus/papers/2307.01850.md",
+    "bibtex": "@article{alemohammad2023230701850,\n  title={{Self-Consuming Generative Models Go MAD}},\n  author={Sina Alemohammad and Josue Casco-Rodriguez and Lorenzo Luzi and Ahmed Imtiaz Humayun and Hossein Babaei and Daniel LeJeune and Ali Siahkoohi and Richard G. Baraniuk},\n  journal={arXiv preprint arXiv:2307.01850},\n  year={2023},\n  eprint={2307.01850},\n  archivePrefix={arXiv},\n  primaryClass={cs.LG},\n  url={https://arxiv.org/abs/2307.01850}\n}"
   },
   {
     "id": "2305.17493",
