@@ -24,8 +24,8 @@
       "consensus_attractor",
       "variance_reduction"
     ],
-    "empirical_substrate": "Scientific corpus / human interaction",
-    "status": "ingested",
+    "empirical_substrate": "Kaggle contest code submissions (2019–2026), TF-IDF n-grams + Voyage-3 code embeddings",
+    "status": "curated",
     "file_rel_path": "corpus/papers/2607.13077.md",
     "bibtex": "@article{burtch2026260713077,\n  title={{The Hitchhiker's Guide to Monoculture: AI Homogenizes Syntax, Not (Necessarily) Semantics}},\n  author={Gordon Burtch},\n  journal={arXiv preprint arXiv:2607.13077},\n  year={2026},\n  eprint={2607.13077},\n  archivePrefix={arXiv},\n  primaryClass={cs.CY},\n  url={https://arxiv.org/abs/2607.13077}\n}"
   },
@@ -223,8 +223,8 @@
       "lexical_entrenchment",
       "variance_reduction"
     ],
-    "empirical_substrate": "Scientific corpus / human interaction",
-    "status": "ingested",
+    "empirical_substrate": "1,000,000+ astrophysics papers (2000–2024), NASA ADS database",
+    "status": "curated",
     "file_rel_path": "corpus/papers/2406.17324.md",
     "bibtex": "@article{astarita2024240617324,\n  title={{Delving into the Utilisation of ChatGPT in Scientific Publications in Astronomy}},\n  author={Simone Astarita and Sandor Kruk and Jan Reerink and Pablo Gómez},\n  journal={arXiv preprint arXiv:2406.17324},\n  year={2024},\n  eprint={2406.17324},\n  archivePrefix={arXiv},\n  primaryClass={cs.CL},\n  url={https://arxiv.org/abs/2406.17324}\n}"
   },
@@ -343,11 +343,12 @@
       "L5_systemic_recursive"
     ],
     "cybernetic_concepts": [
-      "circular_causality",
-      "structural_coupling"
+      "autophagous_loop",
+      "model_autophagy_disorder",
+      "circular_causality"
     ],
-    "empirical_substrate": "Scientific corpus / human interaction",
-    "status": "ingested",
+    "empirical_substrate": "Iterative synthetic loops across diffusion models (ImageNet) and language models",
+    "status": "curated",
     "file_rel_path": "corpus/papers/2307.01850.md",
     "bibtex": "@article{alemohammad2023230701850,\n  title={{Self-Consuming Generative Models Go MAD}},\n  author={Sina Alemohammad and Josue Casco-Rodriguez and Lorenzo Luzi and Ahmed Imtiaz Humayun and Hossein Babaei and Daniel LeJeune and Ali Siahkoohi and Richard G. Baraniuk},\n  journal={arXiv preprint arXiv:2307.01850},\n  year={2023},\n  eprint={2307.01850},\n  archivePrefix={arXiv},\n  primaryClass={cs.LG},\n  url={https://arxiv.org/abs/2307.01850}\n}"
   },
@@ -415,13 +416,17 @@
       "cs.LG"
     ],
     "conformity_levels": [
+      "L1_lexical",
+      "L2_syntactic_stylistic",
       "L4_symbolic_pragmatic"
     ],
     "cybernetic_concepts": [
+      "perplexity_bias",
+      "linguistic_gatekeeping",
       "communicative_accommodation"
     ],
-    "empirical_substrate": "Scientific corpus / human interaction",
-    "status": "ingested",
+    "empirical_substrate": "TOEFL non-native essays (N=91) vs US 8th-grade essays (N=88) tested on 7 detectors",
+    "status": "curated",
     "file_rel_path": "corpus/papers/2304.02819.md",
     "bibtex": "@article{liang2023230402819,\n  title={{GPT detectors are biased against non-native English writers}},\n  author={Weixin Liang and Mert Yuksekgonul and Yining Mao and Eric Wu and James Zou},\n  journal={arXiv preprint arXiv:2304.02819},\n  year={2023},\n  eprint={2304.02819},\n  archivePrefix={arXiv},\n  primaryClass={cs.CL},\n  url={https://arxiv.org/abs/2304.02819}\n}"
   },
