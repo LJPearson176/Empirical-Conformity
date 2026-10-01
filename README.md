@@ -229,7 +229,7 @@ If you use this research archive, taxonomy, or harvesting engine in your work, p
   title={Second-Order Cybernetics and Language Model Conformity: An Open Research Archive and Taxonomy},
   author={{SOC-LMC Contributors}},
   year={2024},
-  howpublished={\url{https://github.com/your-username/soc-llm-conformity}},
+  howpublished={\url{https://github.com/LJPearson176/Empirical-Conformity}},
   note={Computational repository and empirical literature index}
 }
 ```
