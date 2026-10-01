@@ -12,7 +12,14 @@
 
 <br>
 
-**[🔍 Featured Discoveries](#-featured-empirical-discoveries)** · **[📊 Cross-Domain Evidence Matrix](#-cross-domain-empirical-evidence-matrix)** · **[🔤 The Lexical Contagion Lexicon](#-the-lexical-contagion-lexicon)** · **[🧠 The 5 Levels of Conformity](#-the-5-levels-of-conformity)** · **[🔄 Cybernetics in Plain English](#-second-order-cybernetics-in-plain-english)** · **[⚖️ Counterarguments & Debates](#-counterarguments-critical-debates--boundary-conditions)** · **[📚 Master Research Directory](#-master-research-directory)**
+<img src="assets/skills-vs-tools.png" alt="Skills Build Freedom vs Tools Create Dependence" width="850">
+
+<p><b>Foundations Create Freedom · Dependence Creates Fragility</b><br>
+<i>The cybernetic paradox of cognitive offloading: When automated tools replace foundational human capabilities, convenience masquerades as competence—inducing cognitive atrophy, linguistic conformity, and systemic dependence on algorithmic infrastructure.</i></p>
+
+<br>
+
+**[🔍 Featured Discoveries](#-featured-empirical-discoveries)** · **[📊 Cross-Domain Evidence Matrix](#-cross-domain-empirical-evidence-matrix)** · **[🔤 The Lexical Contagion Lexicon](#-the-lexical-contagion-lexicon)** · **[🧠 The 5 Levels of Conformity](#-the-5-levels-of-conformity)** · **[🔄 Cybernetics in Plain English](#-second-order-cybernetics-in-plain-english)** · **[⚖️ Counterarguments & Debates](#-counterarguments-critical-debates--boundary-conditions)** · **[📂 Supplemental Monographs](#-supplemental-monographs-theoretical-foundations--architecture)** · **[📚 Master Research Directory](#-master-research-directory)**
 
 <br>
 
@@ -271,6 +278,45 @@ Is the "AI-driven monoculture" thesis an overstatement? Scientific consensus is 
 ### 5. Architectural Pluralism & Synthetic Data Curation
 *   **The Claim**: Catastrophic "Model Collapse" assumes a naive, closed-loop monoculture where one model blindly trains on uncurated web dumps.
 *   **The Evidence**: In practice, the global AI ecosystem is highly pluralistic—spanning open-weights models (DeepSeek, Llama, Mistral, Qwen), domain-specific architectures, high-temperature sampling, and multimodal grounding (vision, audio, physical robotics). Research on synthetic curricula (e.g. Cosmopedia, UltraFeedback) demonstrates that carefully curated, high-diversity synthetic data generation can actually expand model performance without inducing collapse.
+
+---
+
+## 📂 Supplemental Monographs: Theoretical Foundations & Architecture
+
+Beyond empirical linguistics, understanding how language models reshape human autonomy requires grappling with cybernetic theory, quantum epistemologies, psychological persuasion mechanics, and predictive world models. 
+
+This repository archives four visual and theoretical monographs (available in [`supplemental/`](supplemental/) with full conceptual notes in [`supplemental/README.md`](supplemental/README.md)):
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚛️ Quantum Cybernetics: The Illusion of the 'Outside'</h3>
+      <p><b>Superposition, Observer Effects & Modal Collapse</b></p>
+      <p>Explores how Second-Order Cybernetics mirrors the Quantum Measurement Problem. In an uncoupled state, human cultural ideation exists in a quantum-like superposition of high-entropy possibilities. The moment an LLM interacts with human thought, it acts as an observational apparatus—collapsing diverse potentials into singular, low-entropy attractors (modal eigenstates).</p>
+      <p>👉 <a href="supplemental/Quantum_Cybernetics.pdf"><b>View Presentation Deck (PDF) →</b></a> · <a href="supplemental/README.md#️-quantum-cybernetics-the-illusion-of-the-outside"><b>Read Synopsis →</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🪞 The Personalization Paradox</h3>
+      <p><b>Teaching the Individual Without Obliterating Reality</b></p>
+      <p>Contrasts the historical <i>Prism</i> of Lasswell's broadcast mass media (one-to-many) against the modern <i>Mirror</i> of generative hyper-personalization (one-to-one). Analyzes how algorithmic persona simulation hijacks the <b>Elaboration Likelihood Model (ELM)</b>: when &gt;90% of user interactions shift to peripheral heuristic processing, cognitive resistance atrophies.</p>
+      <p>👉 <a href="supplemental/The_Personalization_Paradox.pdf"><b>View Presentation Deck (PDF) →</b></a> · <a href="supplemental/README.md#-the-personalization-paradox-teaching-the-individual-without-obliterating-reality"><b>Read Synopsis →</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌿 From Bios to Zoë: Ecological AI Architecture</h3>
+      <p><b>Bateson's Ecology of Mind & The Cartesian AI Trap</b></p>
+      <p>Draws directly from Gregory Bateson (<i>"The creature that wins against its environment destroys itself"</i>) and Heinz von Foerster. Critiques the Cartesian trap of treating AI as an isolated oracle (<i>Bios</i>) optimizing narrow metrics, and proposes an interconnected, relational cybernetic ecology (<i>Zoë</i>) where observers are acknowledged inside the system.</p>
+      <p>👉 <a href="supplemental/Ecological_AI_Architecture.pdf"><b>View Presentation Deck (PDF) →</b></a> · <a href="supplemental/README.md#-from-bios-to-zoë-the-architecture-of-ecological-ai"><b>Read Synopsis →</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📡 The Topography of Signals</h3>
+      <p><b>From World Models to Systemic Social Contagion</b></p>
+      <p>Synthesizes multi-scale systems dynamics: from <b>Micro</b> (discrete data &amp; JEPA predictive architectures) to <b>Meso</b> (cybernetic feedback loops &amp; latent space convergence) to <b>Macro</b> (multiplex social contagion). Explains why generative token reconstruction induces hallucination and collapse, contrasting it with joint-embedding predictive world models.</p>
+      <p>👉 <a href="supplemental/The_Topography_of_Signals.pdf"><b>View Presentation Deck (PDF) →</b></a> · <a href="supplemental/README.md#-the-topography-of-signals-world-models-to-systemic-social-contagion"><b>Read Synopsis →</b></a></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
