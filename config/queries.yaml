@@ -1,0 +1,91 @@
+# arXiv Query & Taxonomy Configuration for SOC-LMC Archive
+
+arxiv_settings:
+  base_url: "https://export.arxiv.org/api/query"
+  rate_limit_delay_seconds: 3.0
+  user_agent: "soc-llm-conformity-harvester/0.1.0 (academic-research-archive; contact: research@example.org)"
+  default_max_results: 10
+  allowed_categories:
+    - "cs.CL"  # Computation and Language
+    - "cs.CY"  # Computers and Society
+    - "cs.AI"  # Artificial Intelligence
+    - "cs.HC"  # Human-Computer Interaction
+    - "cs.SI"  # Social and Information Networks
+    - "stat.ML" # Machine Learning
+
+query_strategies:
+  lexical_conformity:
+    description: "Studies tracking vocabulary shift, excess words, and lexical entrenchment post-LLM release"
+    query: 'ti:"excess vocabulary" OR abs:"excess words" OR (abs:"delve" AND abs:"ChatGPT") OR abs:"lexical shift" OR abs:"linguistic homogenization" OR abs:"vocabulary shift"'
+    categories: ["cs.CL", "cs.CY", "cs.AI"]
+
+  spoken_and_dialogue_entrenchment:
+    description: "Empirical studies tracking speech, podcasts, and conversational internalization of LLM language"
+    query: '(abs:"spoken communication" OR abs:"spontaneous speech" OR abs:"conversational") AND (abs:"LLM" OR abs:"ChatGPT" OR abs:"language model") AND (abs:"internalization" OR abs:"influence" OR abs:"conformity")'
+    categories: ["cs.CL", "cs.CY", "cs.HC"]
+
+  stylistic_and_syntactic_variance:
+    description: "Research investigating loss of writing variance, structural flattening, and stylistic collapse"
+    query: '(abs:"writing assistance" OR abs:"co-writing") AND (abs:"variance" OR abs:"homogenization" OR abs:"diversity") AND (abs:"language model" OR abs:"ChatGPT")'
+    categories: ["cs.CL", "cs.HC", "cs.CY"]
+
+  semantic_and_opinion_convergence:
+    description: "Studies on consensus anchoring, opinion formation shifts, and semantic narrowing"
+    query: '(abs:"opinionated" OR abs:"opinion formation" OR abs:"semantic homogenization" OR abs:"consensus") AND (abs:"language model" OR abs:"LLM") AND (abs:"user" OR abs:"human")'
+    categories: ["cs.CY", "cs.HC", "cs.CL"]
+
+  second_order_autophagous_loops:
+    description: "Recursive feedback, synthetic data loops, model collapse, and autophagous contamination"
+    query: 'ti:"model collapse" OR abs:"curse of recursion" OR abs:"synthetic data" AND abs:"feedback loop" AND (abs:"language model" OR abs:"generative")'
+    categories: ["cs.CL", "cs.AI", "stat.ML"]
+
+  interactive_alignment_and_accommodation:
+    description: "Communication accommodation theory, linguistic entrainment, and interactive alignment with AI"
+    query: '(abs:"interactive alignment" OR abs:"communication accommodation" OR abs:"linguistic alignment" OR abs:"entrainment") AND (abs:"language model" OR abs:"chatbot" OR abs:"ChatGPT")'
+    categories: ["cs.CL", "cs.HC"]
+
+keyword_classification:
+  dimensions:
+    lexical_conformity:
+      - "lexical"
+      - "vocabulary"
+      - "word frequency"
+      - "delve"
+      - "excess words"
+      - "linguistic homogenization"
+      - "spoken communication"
+    syntactic_stylistic_conformity:
+      - "syntactic"
+      - "stylistic"
+      - "writing style"
+      - "variance in writing"
+      - "hedging"
+      - "sentence length"
+      - "writing assistance"
+    semantic_ideational_conformity:
+      - "semantic"
+      - "ideational"
+      - "opinion"
+      - "belief"
+      - "consensus"
+      - "attractor"
+      - "conceptual convergence"
+    symbolic_pragmatic_conformity:
+      - "symbolic"
+      - "pragmatic"
+      - "communicative accommodation"
+      - "interactive alignment"
+      - "semiotic"
+      - "prompting mindset"
+      - "entrainment"
+    systemic_recursive_cybernetics:
+      - "model collapse"
+      - "recursion"
+      - "feedback loop"
+      - "autophagous"
+      - "second order"
+      - "cybernetics"
+      - "circular causality"
+      - "structural coupling"
+      - "eigenform"
+      - "synthetic data"

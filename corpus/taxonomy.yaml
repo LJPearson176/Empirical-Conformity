@@ -1,0 +1,90 @@
+# Formal Taxonomy for Second-Order Cybernetics and Language Model Conformity (SOC-LMC)
+
+version: "1.0.0"
+description: >
+  A multi-tier ontology bridging Second-Order Cybernetics (von Foerster, Bateson, Maturana & Varela)
+  with empirical sociolinguistic, cognitive, and computational measurements of human-LLM conformity.
+
+conformity_dimensions:
+  L1_lexical:
+    name: "Lexical Conformity & Vocabulary Shifts"
+    definition: >
+      The direct adoption and statistical entrenchment of LLM-skewed token distributions,
+      uncommon marker words, and idiomatic cliches in spontaneous human speech and writing.
+    empirical_indicators:
+      - "Excess word frequency (Z-score elevation over historical baselines)"
+      - "Elevated probability of signature tokens (e.g., delve, showcase, pivotal, tapestry, intricate, meticulous)"
+      - "Vocabulary size reduction and suppression of regional or idiosyncratic vocabulary"
+      - "Cross-modal transfer (textual LLM training manifests in spontaneous verbal discourse)"
+
+  L2_syntactic_stylistic:
+    name: "Syntactic & Stylistic Conformity"
+    definition: >
+      The convergence of sentence architectures, discourse markers, rhetorical templates,
+      and cadence toward the mode centroid of instruction-tuned and RLHF-aligned models.
+    empirical_indicators:
+      - "Reduction in stylistic variance across author populations (20% to 50% drop in complexity variance)"
+      - "Homogenization of sentence length and parse tree depth"
+      - "Over-representation of hedging constructions ('It is important to consider...')"
+      - "Loss of idiosyncratic authorial fingerprints"
+
+  L3_semantic_ideational:
+    name: "Semantic & Conceptual Conformity"
+    definition: >
+      The narrowing of ideational diversity, consensus anchoring around modal answers,
+      and the implicit steering of human opinions and conceptual frameworks during co-writing.
+    empirical_indicators:
+      - "Reduction in semantic entropy and embedding space dispersion"
+      - "Latent opinion shifts in users interacting with opinionated models (measured via pre/post surveys)"
+      - "Erasure of marginal, heterodox, or non-dominant cultural perspectives"
+      - "Convergence on homogeneous problem-solving strategies"
+
+  L4_symbolic_pragmatic:
+    name: "Symbolic & Pragmatic Conformity"
+    definition: >
+      The adaptation of human communicative intent, semiotic framing, and mental models
+      to accommodate machine affordances (e.g., adopting 'prompting mindsets' in human-human dialogue).
+    empirical_indicators:
+      - "Linguistic style matching (LSM) between human and conversational agent"
+      - "Communicative accommodation: humans simplifying syntax or structuring prompts for parsability"
+      - "Shift from dialogic exploration to instrumental query-response framing"
+      - "Entrainment of turn-taking and pragmatic markers"
+
+  L5_systemic_recursive:
+    name: "Systemic & Second-Order Reflexive Loops"
+    definition: >
+      The closed circular causality where human behavioral modifications alter the socio-cultural
+      substrate, generating new training data that deepens model convergence—realizing autophagous
+      decay and cultural eigenforms.
+    empirical_indicators:
+      - "Model collapse / autophagous degradation over successive synthetic generations"
+      - "Web-scale corpus contamination (PubMed, arXiv, Wikipedia, GitHub)"
+      - "Cultural monoculture and self-reinforcing epistemic echo chambers"
+      - "Emergence of cybernetic eigenforms: stable attractors in recursive language games"
+
+cybernetic_mechanisms:
+  first_order_control:
+    description: "External steering of the machine by an independent observer (e.g., RLHF, prompt tuning)."
+    status: "Insufficient for world-scale deployments where observers are embedded in the system."
+  second_order_reflexivity:
+    description: "The observer is an active participant inside the feedback loop; the model conditions the observer."
+    theorists: ["Heinz von Foerster", "Margaret Mead"]
+  structural_coupling:
+    description: "Mutual history of recurrent interactions that leads to congruent structural changes without loss of identity."
+    theorists: ["Humberto Maturana", "Francisco Varela"]
+  autopoiesis_consensual_domains:
+    description: "Language as consensual coordination of coordinations; linguistic drift in closed networks."
+    theorists: ["Humberto Maturana", "Francisco Varela"]
+  schismogenesis_and_epistemic_traps:
+    description: "Vicious feedback cycles where corrective actions amplify systemic pathologies."
+    theorists: ["Gregory Bateson"]
+  conversation_theory:
+    description: "Dynamic exchange of concepts creating shared understandings and conversational closures."
+    theorists: ["Gordon Pask"]
+
+empirical_substrates:
+  - "Spontaneous Spoken Speech (podcasts, conversational recordings, unscripted broadcasts)"
+  - "Scientific Literature & Preprints (PubMed, arXiv, bioRxiv, OpenAlex)"
+  - "Peer Review Discourse (OpenReview, academic conference review corpora)"
+  - "Collaborative / Assisted Writing (student essays, creative writing platforms, professional communications)"
+  - "Code Repositories & Technical Problem Solving (GitHub, StackOverflow)"

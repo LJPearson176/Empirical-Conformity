@@ -1,0 +1,252 @@
+[
+  {
+    "id": "2409.01754",
+    "title": "Empirical evidence of Large Language Model's influence on human spoken communication",
+    "authors": [
+      "Hiromu Yakura",
+      "Ezequiel Lopez-Lopez",
+      "Levin Brinkmann",
+      "Ignacio de la Serna",
+      "Lara Kirfel",
+      "Prateek Gupta",
+      "Ivan Soraperra",
+      "Thomas F. Eisenmann",
+      "Dirk U. Wulff",
+      "Iyad Rahwan"
+    ],
+    "year": 2024,
+    "venue": "arXiv preprint / Nature Human Behaviour (in review)",
+    "arxiv_id": "2409.01754",
+    "doi": "10.48550/arXiv.2409.01754",
+    "url": "https://arxiv.org/abs/2409.01754",
+    "pdf_url": "https://arxiv.org/pdf/2409.01754.pdf",
+    "categories": [
+      "cs.CY",
+      "cs.AI",
+      "cs.CL",
+      "cs.HC"
+    ],
+    "conformity_levels": [
+      "L1_lexical",
+      "L4_symbolic_pragmatic",
+      "L5_systemic_recursive"
+    ],
+    "cybernetic_concepts": [
+      "circular_causality",
+      "structural_coupling",
+      "lexical_entrenchment",
+      "consensual_domain_drift"
+    ],
+    "empirical_substrate": "737,083 hours of spontaneous podcasts (824,634 episodes) + Lab Experiment (N=496)",
+    "metrics": [
+      "Synthetic-control causal estimation",
+      "Excess word frequency Z-score",
+      "Active vocabulary entrenchment persistence"
+    ],
+    "status": "curated",
+    "file_rel_path": "corpus/papers/2409.01754.md",
+    "bibtex": "@article{yakura2024empirical,\n  title={Empirical evidence of Large Language Model's influence on human spoken communication},\n  author={Yakura, Hiromu and Lopez-Lopez, Ezequiel and Brinkmann, Levin and de la Serna, Ignacio and Kirfel, Lara and Gupta, Prateek and Soraperra, Ivan and Eisenmann, Thomas F. and Wulff, Dirk U. and Rahwan, Iyad},\n  journal={arXiv preprint arXiv:2409.01754},\n  year={2024},\n  eprint={2409.01754},\n  archivePrefix={arXiv},\n  primaryClass={cs.CY},\n  url={https://arxiv.org/abs/2409.01754}\n}"
+  },
+  {
+    "id": "2406.17324",
+    "title": "Delving into the Utilisation of ChatGPT in Scientific Publications in Astronomy",
+    "authors": [
+      "Simone Astarita",
+      "Sandor Kruk",
+      "Jan Reerink",
+      "Pablo Gómez"
+    ],
+    "year": 2024,
+    "venue": "arXiv preprint (cs.CL)",
+    "arxiv_id": "2406.17324",
+    "doi": "10.5281/zenodo.13885576",
+    "url": "https://arxiv.org/abs/2406.17324",
+    "pdf_url": "https://arxiv.org/pdf/2406.17324.pdf",
+    "categories": [
+      "cs.CL",
+      "astro-ph.IM",
+      "cs.DL"
+    ],
+    "conformity_levels": [
+      "L1_lexical",
+      "L2_syntactic_stylistic",
+      "L4_symbolic_pragmatic"
+    ],
+    "cybernetic_concepts": [
+      "communicative_accommodation",
+      "lexical_entrenchment",
+      "variance_reduction"
+    ],
+    "empirical_substrate": "Scientific corpus / human interaction",
+    "status": "ingested",
+    "file_rel_path": "corpus/papers/2406.17324.md",
+    "bibtex": "@article{astarita2024240617324,\n  title={{Delving into the Utilisation of ChatGPT in Scientific Publications in Astronomy}},\n  author={Simone Astarita and Sandor Kruk and Jan Reerink and Pablo Gómez},\n  journal={arXiv preprint arXiv:2406.17324},\n  year={2024},\n  eprint={2406.17324},\n  archivePrefix={arXiv},\n  primaryClass={cs.CL},\n  url={https://arxiv.org/abs/2406.17324}\n}"
+  },
+  {
+    "id": "2406.07016",
+    "title": "Delving into ChatGPT usage in academic writing through excess vocabulary",
+    "authors": [
+      "Dmitry Kobak",
+      "Rita González-Márquez",
+      "Emőke-Ágnes Horvát",
+      "Jan Lause"
+    ],
+    "year": 2024,
+    "venue": "arXiv preprint / PNAS (2024)",
+    "arxiv_id": "2406.07016",
+    "doi": "10.48550/arXiv.2406.07016",
+    "url": "https://arxiv.org/abs/2406.07016",
+    "pdf_url": "https://arxiv.org/pdf/2406.07016.pdf",
+    "categories": [
+      "cs.CL",
+      "cs.DL",
+      "stat.AP"
+    ],
+    "conformity_levels": [
+      "L1_lexical",
+      "L2_syntactic_stylistic",
+      "L5_systemic_recursive"
+    ],
+    "cybernetic_concepts": [
+      "circular_causality",
+      "excess_word_frequency",
+      "corpus_contamination",
+      "autophagous_loop"
+    ],
+    "empirical_substrate": "14+ million PubMed scientific abstracts (2010–2024)",
+    "metrics": [
+      "Excess word frequency Z-score",
+      "Lower-bound LLM processing prevalence estimator"
+    ],
+    "status": "curated",
+    "file_rel_path": "corpus/papers/2406.07016.md",
+    "bibtex": "@article{kobak2024delving,\n  title={Delving into ChatGPT usage in academic writing through excess vocabulary},\n  author={Kobak, Dmitry and Gonz{\\'a}lez-M{\\'a}rquez, Rita and Horv{\\'a}t, Em{\\H{o}}ke-{\\'A}gnes and Lause, Jan},\n  journal={arXiv preprint arXiv:2406.07016},\n  year={2024},\n  eprint={2406.07016},\n  archivePrefix={arXiv},\n  primaryClass={cs.CL},\n  url={https://arxiv.org/abs/2406.07016}\n}"
+  },
+  {
+    "id": "2403.07183",
+    "title": "Monitoring AI-Modified Content at Scale: A Case Study on the Impact of ChatGPT on AI Conference Peer Reviews",
+    "authors": [
+      "Weixin Liang",
+      "Zachary Izzo",
+      "Yaohui Zhang",
+      "Haley Lepp",
+      "Hancheng Cao",
+      "Xuandong Zhao",
+      "Lingjiao Chen",
+      "Haotian Ye",
+      "Sheng Liu",
+      "Zhi Huang",
+      "Daniel A. McFarland",
+      "James Y. Zou"
+    ],
+    "year": 2024,
+    "venue": "arXiv preprint / ICML 2024",
+    "arxiv_id": "2403.07183",
+    "doi": "10.48550/arXiv.2403.07183",
+    "url": "https://arxiv.org/abs/2403.07183",
+    "pdf_url": "https://arxiv.org/pdf/2403.07183.pdf",
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.CY"
+    ],
+    "conformity_levels": [
+      "L1_lexical",
+      "L2_syntactic_stylistic",
+      "L3_semantic_ideational"
+    ],
+    "cybernetic_concepts": [
+      "circular_causality",
+      "epistemic_feedback",
+      "evaluation_homogenization"
+    ],
+    "empirical_substrate": "Peer reviews from major AI conferences (NeurIPS, ICLR, CoRL, EMNLP)",
+    "metrics": [
+      "Maximum likelihood mixture model estimation",
+      "Excess token ratio"
+    ],
+    "status": "curated",
+    "file_rel_path": "corpus/papers/2403.07183.md",
+    "bibtex": "@article{liang2024monitoring,\n  title={Monitoring AI-Modified Content at Scale: A Case Study on the Impact of ChatGPT on AI Conference Peer Reviews},\n  author={Liang, Weixin and Izzo, Zachary and Zhang, Yaohui and Lepp, Haley and Cao, Hancheng and Zhao, Xuandong and Chen, Lingjiao and Ye, Haotian and Liu, Sheng and Huang, Zhi and McFarland, Daniel A. and Zou, James Y.},\n  journal={arXiv preprint arXiv:2403.07183},\n  year={2024},\n  eprint={2403.07183},\n  archivePrefix={arXiv},\n  primaryClass={cs.CL},\n  url={https://arxiv.org/abs/2403.07183}\n}"
+  },
+  {
+    "id": "2305.17493",
+    "title": "The Curse of Recursion: Training on Generated Data Makes Models Forget",
+    "authors": [
+      "Ilia Shumailov",
+      "Zakhar Shumaylov",
+      "Yiren Zhao",
+      "Nicolas Papernot",
+      "Ross Anderson",
+      "Yarin Gal"
+    ],
+    "year": 2023,
+    "venue": "arXiv preprint / Nature 631, 755–759 (2024)",
+    "arxiv_id": "2305.17493",
+    "doi": "10.1038/s41586-024-07566-y",
+    "url": "https://arxiv.org/abs/2305.17493",
+    "pdf_url": "https://arxiv.org/pdf/2305.17493.pdf",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "stat.ML"
+    ],
+    "conformity_levels": [
+      "L5_systemic_recursive"
+    ],
+    "cybernetic_concepts": [
+      "circular_causality",
+      "autophagous_loop",
+      "model_collapse",
+      "eigenform"
+    ],
+    "empirical_substrate": "Synthetic recursive training loops across LLMs, VAEs, and Gaussian Mixture Models",
+    "metrics": [
+      "Kullback-Leibler divergence over generations",
+      "Tail probability mass erasure",
+      "Approximation error compounding"
+    ],
+    "status": "curated",
+    "file_rel_path": "corpus/papers/2305.17493.md",
+    "bibtex": "@article{shumailov2024curse,\n  title={The curse of recursion: Training on generated data makes models forget},\n  author={Shumailov, Ilia and Shumaylov, Zakhar and Zhao, Yiren and Papernot, Nicolas and Anderson, Ross and Gal, Yarin},\n  journal={Nature},\n  volume={631},\n  pages={755--759},\n  year={2024},\n  doi={10.1038/s41586-024-07566-y},\n  url={https://arxiv.org/abs/2305.17493}\n}"
+  },
+  {
+    "id": "2303.08974",
+    "title": "Co-Writing with Opinionated Language Models Affects Users' Views",
+    "authors": [
+      "Maurice Jakesch",
+      "Advait Bhat",
+      "Daniel Buschek",
+      "Lillian Lee",
+      "Mor Naaman"
+    ],
+    "year": 2023,
+    "venue": "ACM CHI Conference on Human Factors in Computing Systems (CHI 2023)",
+    "arxiv_id": "2303.08974",
+    "doi": "10.1145/3544548.3581196",
+    "url": "https://arxiv.org/abs/2303.08974",
+    "pdf_url": "https://arxiv.org/pdf/2303.08974.pdf",
+    "categories": [
+      "cs.HC",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "conformity_levels": [
+      "L3_semantic_ideational",
+      "L4_symbolic_pragmatic"
+    ],
+    "cybernetic_concepts": [
+      "structural_coupling",
+      "consensus_attractor",
+      "latent_opinion_steering"
+    ],
+    "empirical_substrate": "Controlled writing experiment with 1,500+ participants on social issue essays",
+    "metrics": [
+      "Pre/post survey attitude drift",
+      "Persuasive co-writing shift index"
+    ],
+    "status": "curated",
+    "file_rel_path": "corpus/papers/2303.08974.md",
+    "bibtex": "@inproceedings{jakesch2023cowriting,\n  title={Co-Writing with Opinionated Language Models Affects Users' Views},\n  author={Jakesch, Maurice and Bhat, Advait and Buschek, Daniel and Lee, Lillian and Naaman, Mor},\n  booktitle={Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems},\n  pages={1--15},\n  year={2023},\n  doi={10.1145/3544548.3581196},\n  url={https://arxiv.org/abs/2303.08974}\n}"
+  }
+]
