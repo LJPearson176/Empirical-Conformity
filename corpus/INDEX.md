@@ -6,13 +6,13 @@ This index provides a structured, multi-dimensional catalog of empirical and the
 
 ## 1. Corpus Analytics & Distribution
 
-- **Total Archived Papers**: `11`
+- **Total Archived Papers**: `12`
 - **Conformity Stratum Breakdown**:
   - `L1` **Lexical Conformity & Vocabulary Shifts**: `4` papers
-  - `L2` **Syntactic & Stylistic Conformity**: `4` papers
-  - `L3` **Semantic & Ideational Conformity**: `5` papers
-  - `L4` **Symbolic & Pragmatic Conformity**: `5` papers
-  - `L5` **Systemic & Second-Order Reflexive Loops**: `6` papers
+  - `L2` **Syntactic & Stylistic Conformity**: `5` papers
+  - `L3` **Semantic & Ideational Conformity**: `6` papers
+  - `L4` **Symbolic & Pragmatic Conformity**: `6` papers
+  - `L5` **Systemic & Second-Order Reflexive Loops**: `7` papers
 
 ---
 
@@ -21,6 +21,7 @@ This index provides a structured, multi-dimensional catalog of empirical and the
 | Title | Authors | Year | Levels | Empirical Substrate | Source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [The Hitchhiker's Guide to Monoculture: AI Homogenizes Syntax, Not (Necessarily) Semantics](papers/2607.13077.md) | Gordon Burtch | 2026 | `L2`, `L3` | Scientific corpus / human interaction | [arXiv](https://arxiv.org/abs/2607.13077) |
+| [How LLMs Distort Our Written Language](papers/2603.18161.md) | Marwa Abdulhai et al. | 2026 | `L2`, `L3`, `L4`, `L5` | Controlled writing user study + 2021 ... | [arXiv](https://arxiv.org/abs/2603.18161) |
 | [Artificial intelligence and illusions of understanding in scientific research](papers/messeri2024illusions.md) | Lisa Messeri & M. J. Crockett | 2024 | `L3`, `L4`, `L5` | Sociological and cognitive taxonomy o... | [arXiv](https://www.nature.com/articles/s41586-024-07146-0) |
 | [Generative AI enhances individual creativity but reduces the collective diversity of novel content](papers/doshi2024creativity.md) | Anil R. Doshi & Oliver P. Hauser | 2024 | `L3`, `L5` | Controlled writing experiment with 29... | [arXiv](https://www.science.org/doi/10.1126/sciadv.adn5290) |
 | [Empirical evidence of Large Language Model's influence on human spoken communication](papers/2409.01754.md) | Hiromu Yakura et al. | 2024 | `L1`, `L4`, `L5` | 737,083 hours of spontaneous podcasts... | [arXiv](https://arxiv.org/abs/2409.01754) |
@@ -52,6 +53,7 @@ Research measuring the contraction in writing complexity variance, structural fl
 | Title | Authors | Year | Empirical Substrate | Links |
 | :--- | :--- | :--- | :--- | :--- |
 | [The Hitchhiker's Guide to Monoculture: AI Homogenizes Syntax, Not (Necessarily) Semantics](papers/2607.13077.md) | Gordon Burtch | 2026 | Scientific corpus / human interaction | [arXiv](https://arxiv.org/abs/2607.13077) |
+| [How LLMs Distort Our Written Language](papers/2603.18161.md) | Marwa Abdulhai et al. | 2026 | Controlled writing user study + 2021 pre-LLM essay benchmark + in-the-wild AI conference peer reviews | [arXiv](https://arxiv.org/abs/2603.18161) |
 | [Delving into the Utilisation of ChatGPT in Scientific Publications in Astronomy](papers/2406.17324.md) | Simone Astarita et al. | 2024 | Scientific corpus / human interaction | [arXiv](https://arxiv.org/abs/2406.17324) |
 | [Delving into ChatGPT usage in academic writing through excess vocabulary](papers/2406.07016.md) | Dmitry Kobak et al. | 2024 | 14+ million PubMed scientific abstracts (2010–2024) | [arXiv](https://arxiv.org/abs/2406.07016) |
 | [Monitoring AI-Modified Content at Scale: A Case Study on the Impact of ChatGPT on AI Conference Peer Reviews](papers/2403.07183.md) | Weixin Liang et al. | 2024 | Peer reviews from major AI conferences (NeurIPS, ICLR, CoRL, EMNLP) | [arXiv](https://arxiv.org/abs/2403.07183) |
@@ -62,6 +64,7 @@ Studies documenting opinion convergence, consensus anchoring, and semantic compr
 | Title | Authors | Year | Empirical Substrate | Links |
 | :--- | :--- | :--- | :--- | :--- |
 | [The Hitchhiker's Guide to Monoculture: AI Homogenizes Syntax, Not (Necessarily) Semantics](papers/2607.13077.md) | Gordon Burtch | 2026 | Scientific corpus / human interaction | [arXiv](https://arxiv.org/abs/2607.13077) |
+| [How LLMs Distort Our Written Language](papers/2603.18161.md) | Marwa Abdulhai et al. | 2026 | Controlled writing user study + 2021 pre-LLM essay benchmark + in-the-wild AI conference peer reviews | [arXiv](https://arxiv.org/abs/2603.18161) |
 | [Artificial intelligence and illusions of understanding in scientific research](papers/messeri2024illusions.md) | Lisa Messeri & M. J. Crockett | 2024 | Sociological and cognitive taxonomy of AI deployment across scientific disciplines | [arXiv](https://www.nature.com/articles/s41586-024-07146-0) |
 | [Generative AI enhances individual creativity but reduces the collective diversity of novel content](papers/doshi2024creativity.md) | Anil R. Doshi & Oliver P. Hauser | 2024 | Controlled writing experiment with 293 writers producing 4,395 story evaluations | [arXiv](https://www.science.org/doi/10.1126/sciadv.adn5290) |
 | [Monitoring AI-Modified Content at Scale: A Case Study on the Impact of ChatGPT on AI Conference Peer Reviews](papers/2403.07183.md) | Weixin Liang et al. | 2024 | Peer reviews from major AI conferences (NeurIPS, ICLR, CoRL, EMNLP) | [arXiv](https://arxiv.org/abs/2403.07183) |
@@ -72,6 +75,7 @@ Analyses of interactive alignment, communicative accommodation, and the emergenc
 
 | Title | Authors | Year | Empirical Substrate | Links |
 | :--- | :--- | :--- | :--- | :--- |
+| [How LLMs Distort Our Written Language](papers/2603.18161.md) | Marwa Abdulhai et al. | 2026 | Controlled writing user study + 2021 pre-LLM essay benchmark + in-the-wild AI conference peer reviews | [arXiv](https://arxiv.org/abs/2603.18161) |
 | [Artificial intelligence and illusions of understanding in scientific research](papers/messeri2024illusions.md) | Lisa Messeri & M. J. Crockett | 2024 | Sociological and cognitive taxonomy of AI deployment across scientific disciplines | [arXiv](https://www.nature.com/articles/s41586-024-07146-0) |
 | [Empirical evidence of Large Language Model's influence on human spoken communication](papers/2409.01754.md) | Hiromu Yakura et al. | 2024 | 737,083 hours of spontaneous podcasts (824,634 episodes) + Lab Experiment (N=496) | [arXiv](https://arxiv.org/abs/2409.01754) |
 | [Delving into the Utilisation of ChatGPT in Scientific Publications in Astronomy](papers/2406.17324.md) | Simone Astarita et al. | 2024 | Scientific corpus / human interaction | [arXiv](https://arxiv.org/abs/2406.17324) |
@@ -83,6 +87,7 @@ Theoretical and empirical investigations of autophagous loops, recursive model c
 
 | Title | Authors | Year | Empirical Substrate | Links |
 | :--- | :--- | :--- | :--- | :--- |
+| [How LLMs Distort Our Written Language](papers/2603.18161.md) | Marwa Abdulhai et al. | 2026 | Controlled writing user study + 2021 pre-LLM essay benchmark + in-the-wild AI conference peer reviews | [arXiv](https://arxiv.org/abs/2603.18161) |
 | [Artificial intelligence and illusions of understanding in scientific research](papers/messeri2024illusions.md) | Lisa Messeri & M. J. Crockett | 2024 | Sociological and cognitive taxonomy of AI deployment across scientific disciplines | [arXiv](https://www.nature.com/articles/s41586-024-07146-0) |
 | [Generative AI enhances individual creativity but reduces the collective diversity of novel content](papers/doshi2024creativity.md) | Anil R. Doshi & Oliver P. Hauser | 2024 | Controlled writing experiment with 293 writers producing 4,395 story evaluations | [arXiv](https://www.science.org/doi/10.1126/sciadv.adn5290) |
 | [Empirical evidence of Large Language Model's influence on human spoken communication](papers/2409.01754.md) | Hiromu Yakura et al. | 2024 | 737,083 hours of spontaneous podcasts (824,634 episodes) + Lab Experiment (N=496) | [arXiv](https://arxiv.org/abs/2409.01754) |
@@ -98,7 +103,7 @@ Theoretical and empirical investigations of autophagous loops, recursive model c
 | :--- | :--- | :--- |
 | `circular_causality` | 5 | Heinz von Foerster (Outputs feed back into inputs, altering the observer) |
 | `structural_coupling` | 3 | Maturana & Varela (Recurrent interaction inducing congruent plastic changes) |
-| `eigenform` / `attractor` | 3 | Heinz von Foerster (Stable recursive limits of cognitive/symbolic operations) |
+| `eigenform` / `attractor` | 4 | Heinz von Foerster (Stable recursive limits of cognitive/symbolic operations) |
 | `model_collapse` / `autophagy` | 3 | Shumailov et al. (Information loss in recursive training distributions) |
 | `communicative_accommodation` | 2 | Giles / Pickering & Garrod (Dynamic alignment between conversation partners) |
 

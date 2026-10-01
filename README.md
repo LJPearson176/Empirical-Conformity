@@ -6,7 +6,7 @@
 **The open-source research archive tracking how Large Language Models are actively reshaping human speech, writing, and thought.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Corpus: 11+ Landmark Studies](https://img.shields.io/badge/Corpus-11%2B%20Landmark%20Studies-purple.svg)](corpus/INDEX.md)
+[![Corpus: 12+ Landmark Studies](https://img.shields.io/badge/Corpus-12%2B%20Landmark%20Studies-purple.svg)](corpus/INDEX.md)
 [![Taxonomy: v1.0](https://img.shields.io/badge/Taxonomy-v1.0.0-orange.svg)](corpus/taxonomy.yaml)
 [![Focus: Empirical Sociolinguistics](https://img.shields.io/badge/Focus-Empirical%20Sociolinguistics-green.svg)](docs/TAXONOMY.md)
 
@@ -42,6 +42,11 @@
   </tr>
   <tr>
     <td width="33.3%" valign="top">
+      <h3>📝 Semantic Distortion & Neutrality</h3>
+      <p>MIT/DeepMind study proving LLMs prompted <i>only for grammar</i> still <b>consistently alter intended meaning</b>, driving a <b>+70% surge in fence-sitting neutrality</b>.</p>
+      <p>👉 <a href="corpus/papers/2603.18161.md"><b>Read Dossier (Abdulhai et al. 2026) →</b></a></p>
+    </td>
+    <td width="33.3%" valign="top">
       <h3>🎭 The Creativity Dilemma</h3>
       <p><i>Science Advances</i> study proves AI boosts individual writing quality but <b>reduces the collective diversity</b> of stories across a group—causing collective cultural homogenization.</p>
       <p>👉 <a href="corpus/papers/doshi2024creativity.md"><b>Read Dossier (Doshi & Hauser 2024) →</b></a></p>
@@ -51,13 +56,13 @@
       <p>Kaggle code study (2019–2026) proves AI heavily homogenizes surface syntax (and random seed <code>42</code>), yet developers maintain <b>diverse underlying problem-solving semantics</b>.</p>
       <p>👉 <a href="corpus/papers/2607.13077.md"><b>Read Dossier (Burtch 2026) →</b></a></p>
     </td>
+  </tr>
+  <tr>
     <td width="33.3%" valign="top">
       <h3>🌀 The Curse of Recursion</h3>
       <p>Mathematical proof from <i>Nature</i>: models trained on model-generated content suffer <b>Model Collapse</b>—erasing rare ideas and cultural variance forever.</p>
       <p>👉 <a href="corpus/papers/2305.17493.md"><b>Read Dossier (Shumailov et al. 2024) →</b></a></p>
     </td>
-  </tr>
-  <tr>
     <td width="33.3%" valign="top">
       <h3>🧠 Silent Opinion Steering</h3>
       <p>In a 1,500-person experiment, co-writing with a biased LLM secretly shifted users' personal beliefs. <b>85%+ of users never noticed the steering</b>.</p>
@@ -68,10 +73,22 @@
       <p>Proves that recursive training on synthetic distributions induces <b>Model Autophagy Disorder</b>: catastrophic quality and diversity collapse akin to "mad cow disease" in data.</p>
       <p>👉 <a href="corpus/papers/2307.01850.md"><b>Read Dossier (Alemohammad et al. 2024) →</b></a></p>
     </td>
+  </tr>
+  <tr>
     <td width="33.3%" valign="top">
       <h3>🌍 Non-Native Writer Bias</h3>
       <p><i>PNAS</i> study revealing that commercial GPT detectors disproportionately misclassify writing by non-native English speakers as AI-generated due to lower perplexity.</p>
       <p>👉 <a href="corpus/papers/2304.02819.md"><b>Read Dossier (Liang et al. 2023) →</b></a></p>
+    </td>
+    <td width="33.3%" valign="top">
+      <h3>🏛️ Epistemic Monoculture</h3>
+      <p><i>Nature</i> perspective documenting how AI fosters <b>illusions of understanding</b> in science, narrowing scientific inquiry toward machine-tractable paradigms.</p>
+      <p>👉 <a href="corpus/papers/messeri2024illusions.md"><b>Read Dossier (Messeri & Crockett 2024) →</b></a></p>
+    </td>
+    <td width="33.3%" valign="top">
+      <h3>🔭 Astronomy Literature</h3>
+      <p>Over <b>1 million astrophysics papers</b> audited from NASA ADS. Confirms ChatGPT vocabulary skew has breached physical sciences literature.</p>
+      <p>👉 <a href="corpus/papers/2406.17324.md"><b>Read Dossier (Astarita & Kruk 2024) →</b></a></p>
     </td>
   </tr>
 </table>
@@ -86,6 +103,7 @@ How do we know language models are actively changing human communication? Across
 | :--- | :--- | :--- | :--- | :--- |
 | 🎙️ **Spontaneous Spoken Speech** | 737,083 Hours (824,634 episodes), Spotify/Apple Podcasts | Cross-modal transfer of written AI tokens into unscripted verbal dialogue | Abrupt, statistically significant inflection point in target tokens (*delve*, *showcase*) precisely in Dec 2022 | [Yakura, Brinkmann et al. (2024)](corpus/papers/2409.01754.md) |
 | 🔬 **Biomedical Literature** | 14,000,000+ Abstracts (2010–2024), PubMed | Diffusion of AI-generated and AI-polished text into permanent scientific records | At least 10%–13.5% of all 2024 abstracts processed by LLMs; *delves* elevated by >2,500% | [Kobak et al. (2024)](corpus/papers/2406.07016.md) |
+| 📝 **Argumentative Essays & Grammar Edits** | Controlled user study + 2021 pre-LLM benchmark | LLMs alter semantic meaning even under grammar-only prompts; opinion flattening | **+70% surge** in fence-sitting neutrality; loss of authentic voice; 21% AI peer reviews with +1.0 score inflation | [Abdulhai, Jaques et al. (2026)](corpus/papers/2603.18161.md) |
 | 💻 **Software Development & Code** | Kaggle Contest Submissions (2019–2026) | Decoupling of syntax and semantics: code syntax converges while intent stays diverse | Strong syntactic convergence + universal random seed `42`; no evidence of semantic homogenization | [Burtch (2026)](corpus/papers/2607.13077.md) |
 | ⚖️ **Scientific Peer Review** | 50,000+ Reviews, OpenReview (NeurIPS, ICLR, CoRL) | Reviewers under deadline pressure offloading cognitive evaluation to LLMs | 6.5%–16.9% of peer review sentences substantially modified; surge in formulaic adjectives (*commendable*) | [Liang et al. (2024)](corpus/papers/2403.07183.md) |
 | 🎭 **Creative Fiction & Narrative** | 293 Authors, 4,395 Blind Evaluations | The "Social Dilemma of Generative AI": Individual boost vs collective loss | Story quality $\uparrow$ by up to 9%, but pairwise semantic similarity $\uparrow$ significantly ($p < 0.001$), reducing collective novelty | [Doshi & Hauser (2024)](corpus/papers/doshi2024creativity.md) |
@@ -159,7 +177,7 @@ When humans interact with world-scale language models, conformity cascades acros
        │
 [Level 2: Syntactic]   ──► Your sentences adopt the model's cadence, hedging, and structure
        │
-[Level 3: Semantic]    ──► Your opinions and arguments cluster around the model's consensus centroid
+[Level 3: Semantic]    ──► Your opinions cluster around the model's consensus centroid (70% neutrality surge)
        │
 [Level 4: Symbolic]    ──► You adopt a "prompting mindset" and accommodate machine affordances
        │
@@ -174,12 +192,12 @@ When humans interact with world-scale language models, conformity cascades acros
 ### ✍️ Level 2: Syntactic & Stylistic Conformity (Variance Collapse)
 *   **What it is**: Loss of idiosyncratic "writing fingerprints." Sentence complexity variance drops by 20% to 50%.
 *   **Markers**: Standardized paragraph lengths, heavy formulaic transitions (*"It is important to remember that..."*), listicles, and loss of regional syntax.
-*   **Key Evidence**: [Kobak et al. (2024)](corpus/papers/2406.07016.md) & [Liang et al. (2024)](corpus/papers/2403.07183.md).
+*   **Key Evidence**: [Kobak et al. (2024)](corpus/papers/2406.07016.md), [Liang et al. (2024)](corpus/papers/2403.07183.md), and [Abdulhai et al. (2026)](corpus/papers/2603.18161.md).
 
-### 🧭 Level 3: Semantic & Ideational Conformity (Consensus Anchoring)
+### 🧭 Level 3: Semantic & Ideational Conformity (Consensus Anchoring & Neutrality)
 *   **What it is**: Narrowing of ideas, arguments, and viewpoints toward the model's RLHF centroid.
-*   **Markers**: Suppression of heterodox hypotheses, regression to the mean in brainstorming, and unperceived opinion shifts.
-*   **Key Evidence**: [Jakesch et al. (CHI 2023)](corpus/papers/2303.08974.md) showed co-writing with biased models alters human beliefs with over 85% of users remaining unaware.
+*   **Markers**: Suppression of heterodox hypotheses, **nearly 70% surge in fence-sitting neutrality** ([Abdulhai et al., 2026](corpus/papers/2603.18161.md)), regression to the mean in brainstorming, and unperceived opinion shifts ([Jakesch et al., 2023](corpus/papers/2303.08974.md)).
+*   **Semantic Drift via Grammar Edits**: Even when prompted strictly to fix grammar, models introduce unauthorized changes that warp human semantic propositions.
 
 ### 🤝 Level 4: Symbolic & Pragmatic Conformity (Interactive Alignment)
 *   **What it is**: Humans modifying how they think and structure intent to make themselves easily parsable by machines.
@@ -263,6 +281,7 @@ All studies are cataloged with full experimental breakdowns in [`corpus/INDEX.md
 | Key / Year | Research Title | Primary Focus | Empirical Substrate | Dossier |
 | :--- | :--- | :--- | :--- | :---: |
 | **`2409.01754`** (2024) | Empirical evidence of Large Language Model's influence on human spoken communication | `L1 Lexical`, `L4 Pragmatic`, `L5 Systemic` | 737,083 hrs Podcasts + Lab Experiment | [📄 Read Dossier](corpus/papers/2409.01754.md) |
+| **`2603.18161`** (2026) | How LLMs Distort Our Written Language | `L2 Stylistic`, `L3 Semantic`, `L5 Systemic` | Pre-LLM Essays + Conference Reviews | [📄 Read Dossier](corpus/papers/2603.18161.md) |
 | **`2406.07016`** (2024) | Delving into ChatGPT usage in academic writing through excess vocabulary | `L1 Lexical`, `L2 Stylistic`, `L5 Systemic` | 14,000,000+ PubMed Abstracts | [📄 Read Dossier](corpus/papers/2406.07016.md) |
 | **`2607.13077`** (2026) | The Hitchhiker's Guide to Monoculture: AI Homogenizes Syntax, Not Semantics | `L2 Stylistic`, `L3 Semantic` (Counterpoint) | Kaggle Code Contests (2019–2026) | [📄 Read Dossier](corpus/papers/2607.13077.md) |
 | **`doshi2024`** (2024) | Generative AI enhances individual creativity but reduces the collective diversity of novel content | `L3 Semantic`, `L5 Systemic` | 293 Writers, 4,395 Story Evals (*Science Advances*) | [📄 Read Dossier](corpus/papers/doshi2024creativity.md) |

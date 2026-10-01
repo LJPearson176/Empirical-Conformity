@@ -30,6 +30,53 @@
     "bibtex": "@article{burtch2026260713077,\n  title={{The Hitchhiker's Guide to Monoculture: AI Homogenizes Syntax, Not (Necessarily) Semantics}},\n  author={Gordon Burtch},\n  journal={arXiv preprint arXiv:2607.13077},\n  year={2026},\n  eprint={2607.13077},\n  archivePrefix={arXiv},\n  primaryClass={cs.CY},\n  url={https://arxiv.org/abs/2607.13077}\n}"
   },
   {
+    "id": "2603.18161",
+    "title": "How LLMs Distort Our Written Language",
+    "authors": [
+      "Marwa Abdulhai",
+      "Isadora White",
+      "Yanming Wan",
+      "Ibrahim Qureshi",
+      "Joel Z. Leibo",
+      "Max Kleiman-Weiner",
+      "Natasha Jaques"
+    ],
+    "year": 2026,
+    "venue": "arXiv preprint (cs.CL)",
+    "arxiv_id": "2603.18161",
+    "doi": "10.48550/arXiv.2603.18161",
+    "url": "https://arxiv.org/abs/2603.18161",
+    "pdf_url": "https://arxiv.org/pdf/2603.18161.pdf",
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.CY",
+      "cs.HC"
+    ],
+    "conformity_levels": [
+      "L2_syntactic_stylistic",
+      "L3_semantic_ideational",
+      "L4_symbolic_pragmatic",
+      "L5_systemic_recursive"
+    ],
+    "cybernetic_concepts": [
+      "semantic_distortion",
+      "consensus_attractor",
+      "neutrality_bias",
+      "loss_of_authorial_voice",
+      "epistemic_drift"
+    ],
+    "empirical_substrate": "Controlled writing user study + 2021 pre-LLM essay benchmark + in-the-wild AI conference peer reviews",
+    "metrics": [
+      "Semantic divergence under grammar-only prompting",
+      "Neutrality stance proportion (+70% increase)",
+      "Reviewer score inflation (+1.0 point shift)"
+    ],
+    "status": "curated",
+    "file_rel_path": "corpus/papers/2603.18161.md",
+    "bibtex": "@article{abdulhai2026how,\n  title={How LLMs Distort Our Written Language},\n  author={Abdulhai, Marwa and White, Isadora and Wan, Yanming and Qureshi, Ibrahim and Leibo, Joel Z. and Kleiman-Weiner, Max and Jaques, Natasha},\n  journal={arXiv preprint arXiv:2603.18161},\n  year={2026},\n  eprint={2603.18161},\n  archivePrefix={arXiv},\n  primaryClass={cs.CL},\n  url={https://arxiv.org/abs/2603.18161}\n}"
+  },
+  {
     "id": "messeri2024illusions",
     "title": "Artificial intelligence and illusions of understanding in scientific research",
     "authors": [
